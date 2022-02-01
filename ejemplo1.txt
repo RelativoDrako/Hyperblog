@@ -1,5 +1,6 @@
 Este es el primer ejemplo para usar GIT
 
-Esta linea no tiene cambios
+Esta linea tiene pocos cambios
 
-Mensaje secreto
+Mensaje no es secreto
+Esto es una rama en GIT
