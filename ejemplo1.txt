@@ -1,6 +1,7 @@
-Este es el primer ejemplo para usar GIT
+Este es el primer ejemplo para usar GIT 
+y guardar los cambios
 
 Esta linea tiene pocos cambios
 
 Mensaje no es secreto
-Esto es una rama en GIT
+Esto es una rama en GIT 
